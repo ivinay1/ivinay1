@@ -23,7 +23,12 @@ I’m a Backend & DevOps Engineer focused on building APIs and automating deploy
 <p align="left"> <a href="https://www.github.com/ivinay1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/vinay-joshi-31b88b28b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 ### Badges
 
-<b>My GitHub Stats</b>
+## 📊 My GitHub Stats
 
-<a href="http://www.github.com/ivinay1"><img src="https://github-readme-stats.vercel.app/api?username=ivinay1&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="ivinay1's GitHub stats" /></a>
+<p align="center">
+  <a href="https://github.com/ivinay1">
+    <img src="https://github-readme-stats.vercel.app/api?username=ivinay1&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
 
