@@ -1,74 +1,29 @@
-Hi 👋 My name is Vinay Joshi
-============================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vinay Joshi
+====================================================================================================================================
 
-### Backend & DevOps Engineer
+Backend & DevOps Engineer
+-------------------------
 
-I’m a Backend & DevOps Engineer focused on building APIs and automating deployments using modern cloud and DevOps tools.  
-I work with Python FastAPI, Node.js, Docker, CI/CD, Terraform, Ansible, and NGINX to build scalable backend systems and automated infrastructure.  
-I’m also improving my automation testing skills with Selenium to strengthen my engineering foundation.  
-Actively transitioning into a DevOps/Cloud-focused role by building real projects, deploying them, and learning deeper infrastructure concepts.
+I’m a Backend & DevOps Engineer focused on building APIs and automating deployments using modern cloud and DevOps tools. I work with Python FastAPI, Node.js, Docker, CI/CD, Terraform, Ansible, and NGINX to build scalable backend systems and automated infrastructure. I'm also improving my automation testing skills with Selenium to strengthen my overall engineering foundation. I’m actively transitioning into a DevOps/Cloud-focused role by building real projects, deploying them in production, and learning deeper infrastructure concepts.
 
----
-
-### 🔹 About Me
-
-- 🌍 Based in **Remote (India)**
-- 🖥️ Portfolio: **Currently building my portfolio. Stay tuned!**  
-  👉 https://github.com/vinayjoshi
-- ✉️ Reach me at **joshivinay822@gmail.com**
-- 🚀 Currently working on **[CodeSense AI](https://github.com/vinayjoshi/codesense-ai)**
-- 🧠 Learning **Docker, Terraform, Ansible, CI/CD, Cloud Deployment**
-- 🤝 Open to collaborate on **Backend APIs, DevOps automation & Cloud-ready projects**
-- 💬 Ask me about **DevOps transition, backend engineering, and automation journeys**
-
----
-
-### 🛠️ Tech Stack
+* 🌍  I'm based in Remote (India)
+* 🖥️  See my portfolio at [Currently building my portfolio. Stay tuned!](http://github.com/vinayjoshi)
+* ✉️  You can contact me at [joshivinay822@gmail.com](mailto:joshivinay822@gmail.com)
+* 🚀  I'm currently working on [CodeSense AI](http://github.com/vinayjoshi/codesense-ai)
+* 🧠  I'm currently learning Docker, Terraform, Ansible, CI/CD pipelines, and cloud deployment.
+* 👥  I'm looking to collaborate on Backend APIs, DevOps automation, and cloud-ready applications.
+* 💬  Ask me about Actively transitioning into DevOps/Cloud roles by building production-focused backend and automation projects.
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" width="40" height="40"/></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="Node.js" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" title="Express.js" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" title="FastAPI" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" title="MySQL" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" title="Bash" width="40" height="40"/></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" title="Linux" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" title="Docker" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="40" height="40"/></a>
-<a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/selenium-colored.svg" title="Selenium" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
 </p>
 
----
+### Socials
 
-### 🌐 Socials
+<p align="left"> <a href="https://www.github.com/ivinay1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/vinay-joshi-31b88b28b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-<p align="left">
-<a href="https://github.com/ivinay1" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/>
-</a>
+<b>My GitHub Stats</b>
 
-<a href="https://www.linkedin.com/in/vinay-joshi-31b88b28b/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/>
-</a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivinay1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivinay1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivinay1&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
+<a href="http://www.github.com/ivinay1"><img src="https://github-readme-stats.vercel.app/api?username=ivinay1&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="ivinay1's GitHub stats" /></a>
 
