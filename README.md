@@ -25,9 +25,11 @@ I’m a Backend & DevOps Engineer focused on building APIs and automating deploy
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ivinay1">
-    <img src="https://github-readme-stats.vercel.app/api?username=ivinay1&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <img 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivinay1&show_icons=true&theme=tokyonight" 
+       alt="GitHub Stats"
+  />
 </p>
+
 
 
