@@ -26,7 +26,7 @@ I’m a Backend & DevOps Engineer focused on building APIs and automating deploy
 
 <p align="center">
   <img 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivinay1&show_icons=true&theme=tokyonight" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivinay1&theme=tokyonight" 
        alt="GitHub Stats"
   />
 </p>
