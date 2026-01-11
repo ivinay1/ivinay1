@@ -25,4 +25,4 @@ I’m a Backend & DevOps Engineer focused on building APIs and automating deploy
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ivinay1"><img src="https://github-readme-stats.vercel.app/api?username=ivinay1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="ivinay1's GitHub stats" /></a>
+<a href="http://www.github.com/ivinay1"><img src="https://github-readme-stats.vercel.app/api?username=ivinay1&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="ivinay1's GitHub stats" /></a>
